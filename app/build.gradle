@@ -1,0 +1,23 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    compileSdkVersion 27
+    defaultConfig {
+        applicationId "com.shengqf.flowlayout"
+        minSdkVersion 19
+        targetSdkVersion 27
+
+        lintOptions {
+            //去掉manifest文件的警告：App is not indexable by Google Search
+            disable 'GoogleAppIndexingWarning'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    api 'com.android.support:appcompat-v7:27.1.0'
+
+
+}
