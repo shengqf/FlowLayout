@@ -6,13 +6,11 @@
 
 1、项目根目录build文件添加：
 
-allprojects {
-    repositories {
+repositories {
         ...
 
         maven { url 'https://jitpack.io' }
         
-    }
 }
 
 2、需要使用的FlowLayout的模块的build文件添加：
