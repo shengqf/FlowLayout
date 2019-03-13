@@ -34,9 +34,11 @@ dependencies {
 
 3、同步工程即可使用
 
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
-![test png](http://www.baidu.com/img/bdlogo.gif "test png")
+------
+
+![]( https://github.com/shengqf/FlowLayout/raw/master/img/01.png)
+
 
 
 
