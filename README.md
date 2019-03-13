@@ -34,7 +34,7 @@ dependencies {
 
 3、同步工程即可使用
 
-![测试图片](http://pic.58pic.com/58pic/15/68/59/71X58PICNjx_1024.jpg)
+![test png](http://pic.58pic.com/58pic/15/68/59/71X58PICNjx_1024.jpg "test png")
 
 
 
