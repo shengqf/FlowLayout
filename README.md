@@ -8,13 +8,13 @@
 使用：
 
 1、项目根目录build文件添加：
-···java
+~~~java
 repositories {
        
     maven { url 'https://jitpack.io' }
       
 }
-···
+~~~
 
 
 
