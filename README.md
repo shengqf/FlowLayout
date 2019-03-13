@@ -8,6 +8,7 @@
 使用：
 
 1、项目根目录build文件添加：
+
 ~~~java
 repositories {
        
@@ -19,13 +20,19 @@ repositories {
 
 
 2、需要使用的FlowLayout的模块的build文件添加：
+~~~java
+dependencies {
+      
+  ...
 
-    dependencies {
-       ...
+       
+  implementation 'com.github.shengqf:FlowLayout:1.0.0'
 
-       implementation 'com.github.shengqf:FlowLayout:1.0.0'
+    
+}
+~~~
 
-    }
+    
 
 3、同步工程即可使用
 
