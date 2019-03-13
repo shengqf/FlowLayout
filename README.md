@@ -36,7 +36,7 @@ dependencies {
 
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
-![test png](http://pic.58pic.com/58pic/15/68/59/71X58PICNjx_1024.jpg "test png")
+![test png](http://www.baidu.com/img/bdlogo.gif "test png")
 
 
 
